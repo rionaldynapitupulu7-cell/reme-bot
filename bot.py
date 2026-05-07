@@ -6,9 +6,9 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # ===== KONFIGURASI =====
-BOT_TOKEN = "MASUKKAN_TOKEN_BOT_DISINI"
-OWNER_IDS = [123456789]
-ADMIN_IDS = [123456789]
+BOT_TOKEN = "8636129984:AAHNPZjd8aGBUPiXlcjLIugjCeWiNeam2kU"
+OWNER_IDS = [8695568315]
+ADMIN_IDS = [8695568315]
 TAX_PERCENT = 3
 
 ROULETTE = [0,32,15,19,4,21,2,25,17,34,6,27,13,36,11,30,8,23,10,5,24,16,33,1,20,14,31,9,22,18,29,7,28,12,35,3,26]
